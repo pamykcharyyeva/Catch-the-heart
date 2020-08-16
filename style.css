@@ -1,0 +1,37 @@
+h1 {
+ color: #FF69B4;
+}
+
+#video-game-area {
+     width: 600px;
+     height: 600px;
+     position: absolute;
+}
+div {
+ display: block;
+}
+
+.heartDiv {
+  width: 500px;
+  height: 500px
+}
+
+#cupid {
+ width: 60px;
+ height: 60px;
+ position: relative;
+ left: -5px;
+ top: 460px;
+ bottom: 180px;
+}
+/*
+.heart-transition {
+  opacity: 1;
+  transition: opacity 1.5s ease-out;
+}
+.bottom-heart {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  opacity: 0;
+} */
